@@ -7,9 +7,9 @@ Download MRCNN by
 
 https://github.com/TQBio/MRCNN.git
 
-1)Installation has been tested in Linux with Python 2.7.
+1) Installation has been tested in Linux with Python 2.7.
 
-2)Since the package is written in python 2.7, python 2.7 with the pip tool must be installed first. MRCNN uses the following dependencies: numpy, scipy, pandas, scikit-learn, keras, tensorflow-gpu version>=1.2.0 
+2) Since the package is written in python 2.7, python 2.7 with the pip tool must be installed first. MRCNN uses the following dependencies: numpy, scipy, pandas, scikit-learn, keras, tensorflow-gpu version>=1.2.0 
 
 You can install these packages first, by the following commands:
 
@@ -33,7 +33,7 @@ Model.py --- For contribution of convolutional neural networks, MRCNN gets diffe
 
 Run.py --- For training the model and output the predicted values.
 
-Evalution.py --- For evalution of model performances and including regression and classification performances.
+Evaluation.py --- For evaluation of model performances and including regression and classification performances.
 
 Motifs.py --- For obtaining the conventional position weight matrices which can be visualized as sequence logos.
 
